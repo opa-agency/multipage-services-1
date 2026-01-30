@@ -9,7 +9,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.13"
+    "@headlessui/vue": "^1.7.23",
+    "@sindresorhus/slugify": "^3.0.0",
+    "@tailwindcss/typography": "^0.5.19",
+    "acorn": "^8.15.0",
+    "clsx": "^2.1.1",
+    "fast-glob": "^3.3.3",
+    "flexsearch": "^0.8.212",
+    "framer-motion": "^12.29.2",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-attrs": "^4.3.1",
+    "vue": "^3.5.13",
+    "vue-router": "^5.0.1",
+    "zustand": "^5.0.10"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.15",
